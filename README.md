@@ -3,7 +3,7 @@ Task: Predict whether a Simpson episode is 'popular' with Machine Learning
 Popularity is defined by "IMDB rating" from simpsons_episodes.csv file.
 csv files are provided and loaded as source data. The original data are downloaded from https://data.world/data-society/the-simpsons-by-the-data.
 
-##Goal
+#Goal
 Construct feature columns for each episode that you think are related to popularity with the given datasets and construct the target column 'popularity', which is a binary class.
 
 ##Example feature columns
